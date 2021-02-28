@@ -6,7 +6,6 @@
 #include <regex>
 #include <vector>
 #include <string>
-//so I don't have to put "std::" in front of everything
 using namespace std;
 //class/template for option
 class Option
